@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello, %username% 👋
 
-<!--
-**alekspickle/alekspickle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am called many things but among other I am:
+- **backend** engineer (cli, api)
+- **rendering** and 👾 **game** enthusiast (shaders, Rust, wgpu, opengl)
+- 🕸️a bit of a **web** developer (React, Angular, Node, Typescript)🕸️
 
-Here are some ideas to get you started:
+You could hire me as graphics programmer:
+- assemble rendering pipeline
+- writing tools for environment
+- writing shaders
+- procedural animations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Or backend developer:
+- REST, GraphQL
+- Docker, k8s, GCP, AWS
+- 
+
+
+You can reach me here, or:
+- Telegram `@aleks_pickle`
+- Direct email: `aleks.work2222@gmail.com`
+
+
