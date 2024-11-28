@@ -4,6 +4,7 @@ I am called many things but among other I am:
 - **backend** engineer (cli, api)
 - **rendering** and 👾 **game** enthusiast (shaders, Rust, wgpu, opengl)
 - 🕸️a bit of a **web** developer (React, Angular, Node, Typescript)🕸️
+- worked with substrate(node runtime, pallets) and ethereum(event mapping, thegraph).
 
 You could hire me as graphics programmer:
 - assemble rendering pipeline
