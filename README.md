@@ -1,12 +1,12 @@
-## Hello, %username% 👋
-
-I am called many things but among other I am:
 - **backend** engineer (cli, api)
-- **rendering** and 👾 **game** enthusiast (shaders, Rust, wgpu, opengl)
+- **rendering** and 👾 **game** enthusiast (shaders, Rust, wgpu, opengl, raytracing)
 - 🕸️a bit of a **web** developer (React, Angular, Node, Typescript)🕸️
 - experience with substrate(node runtime, pallets) and ethereum(event mapping, thegraph).
 
-Things Im interested working with:
+Right now I am enthusiastic about making the actual game using Rust!
+Exploring 
+
+Things Im interested in:
 - full rendering pipeline
 - writing shaders
 - procedural animations
