@@ -4,17 +4,15 @@ I am called many things but among other I am:
 - **backend** engineer (cli, api)
 - **rendering** and 👾 **game** enthusiast (shaders, Rust, wgpu, opengl)
 - 🕸️a bit of a **web** developer (React, Angular, Node, Typescript)🕸️
-- worked with substrate(node runtime, pallets) and ethereum(event mapping, thegraph).
+- experience with substrate(node runtime, pallets) and ethereum(event mapping, thegraph).
 
-You could hire me as graphics programmer:
-- assemble rendering pipeline
-- writing tools for environment
+Things Im interested working with:
+- full rendering pipeline
 - writing shaders
 - procedural animations
-
-Or backend developer:
-- REST, GraphQL
-- Docker, k8s, GCP, AWS
+- games
+- writing tools for environment
+- Docker, k8s, GCP, AWS, GraphQL
 
 
 You can reach me here, or:
