@@ -15,7 +15,6 @@ You could hire me as graphics programmer:
 Or backend developer:
 - REST, GraphQL
 - Docker, k8s, GCP, AWS
-- 
 
 
 You can reach me here, or:
