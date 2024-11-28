@@ -8,8 +8,6 @@
 - 🕸️a bit of a **web** developer (React, Angular, Node, Typescript)🕸️
 - experience with substrate(node runtime, pallets) and ethereum(event mapping, thegraph).
 
-Right now I am excited about making the actual game using Rust!
-
 Exploring the field of physically based rendering and lighting from scratch.
 
 Things Im interested in:
