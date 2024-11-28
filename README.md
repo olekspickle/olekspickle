@@ -4,19 +4,17 @@
 
 
 - **backend** engineer (cli, api, services, crawlers)
-- **rendering** and 👾 **game** enthusiast (shaders, Rust, wgpu, raytracing, PBR)
-- 🕸️a bit of a **web** developer (React, Angular, Node, Typescript)🕸️
+- **rendering** and **game** enthusiast (shaders, Rust, wgpu, raytracing, PBR)
+- know how the **web** works (React, Angular, Node, Typescript)
 - experience with substrate(node runtime, pallets) and ethereum(event mapping, thegraph).
-
-Exploring the field of physically based rendering and lighting from scratch.
 
 Things Im interested in:
 - cloud infra development(terraform, nomad)
-- full rendering pipeline
-- writing shaders & games
 - video & audio processing
 - tools for environment
 - Docker, k8s, GCP, AWS, GraphQL
+- full rendering pipeline
+- writing shaders & games
 
 **Languages and Tools:**  
 
