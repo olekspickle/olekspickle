@@ -19,7 +19,7 @@ Or backend developer:
 
 
 You can reach me here, or:
-- [Direct email](aleks.work2222@gmail.com)
+- Direct email - aleks.work2222@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/aleksey-gnatovskyi-31b15a131/)
 - [Twitter](https://twitter.com/aleks_pickle)
 
