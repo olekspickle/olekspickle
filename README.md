@@ -3,7 +3,7 @@
 [![twitter badge](https://img.shields.io/badge/twitter-@AleksPickle-blue?style=flat-square&logo=twitter)](https://twitter.com/aleks_pickle) [![linkedin badge](https://img.shields.io/badge/linkedin-@Oleks-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oleks-gnatovskyi/)
 
 
-**Actively looking for a job**. Things Im interested in:
+Things Im interested in:
 - cloud infra development(terraform, nomad)
 - video & audio processing
 - tools for environment
