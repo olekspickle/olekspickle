@@ -1,4 +1,4 @@
-### Hi! I am Aleks.
+### Hey, Oleks here.
 
 [![twitter badge](https://img.shields.io/badge/twitter-@AleksPickle-blue?style=flat-square&logo=twitter)](https://twitter.com/aleks_pickle)
 
@@ -11,11 +11,11 @@
 Exploring the field of physically based rendering and lighting from scratch.
 
 Things Im interested in:
+- cloud infra development(terraform, nomad)
 - full rendering pipeline
-- writing shaders
-- procedural animations
-- games
-- writing tools for environment
+- writing shaders & games
+- video & audio processing
+- tools for environment
 - Docker, k8s, GCP, AWS, GraphQL
 
 **Languages and Tools:**  
