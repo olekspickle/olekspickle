@@ -21,4 +21,5 @@ Things Im interested in:
 - Docker, k8s, GCP, AWS, GraphQL
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alekspickle&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
