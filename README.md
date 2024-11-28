@@ -5,9 +5,9 @@
 
 Things Im interested in:
 - cloud infra development(terraform, nomad)
-- video & audio processing
-- tools for environment
 - Docker, k8s, GCP, AWS, GraphQL
+- tools for environment
+- video & audio processing
 - full rendering pipeline
 - writing shaders & games
 
