@@ -19,7 +19,7 @@ Or backend developer:
 
 
 You can reach me here, or:
-- Telegram `@aleks_pickle`
 - Direct email: `aleks.work2222@gmail.com`
+- LinkedIn:     `https://www.linkedin.com/in/aleksey-gnatovskyi-31b15a131/`
 
 
