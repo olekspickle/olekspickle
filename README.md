@@ -4,11 +4,11 @@
 
 
 Things Im interested in:
-- cloud infra development(docker, k8s, GCP, AWS, GraphQL/REST)
-- tools for environment
+- cloud infra development(docker, k8s, GCP, AWS, REST)
 - video & audio processing
-- full rendering pipeline
-- writing shaders & games
+- 2D/3D rendering, CAD systems
+- emdedded devices
+- shaders & games
 
 ### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olekspickle&count_private=true&show_icons=true&theme=cobalt&layout=compact)
