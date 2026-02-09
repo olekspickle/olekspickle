@@ -19,6 +19,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header,activity
           plugin_languages: yes
-          plugin_stars: yes
           plugin_isocalendar: yes
-          config_order: base.header, languages, stars
+          config_order: base.header,languages,isocalendar
