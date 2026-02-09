@@ -8,9 +8,8 @@ Things Im interested in:
 - video & audio processing
 - 2D/3D rendering, CAD systems
 - emdedded devices
-- shaders & games
+- games
 
-### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olekspickle&count_private=true&show_icons=true&theme=cobalt&layout=compact)
-[![Oleks Pickle's github stats](https://github-readme-stats.vercel.app/api?username=olekspickle&show_icons=true&include_all_commits=true&hide=stars&count_private=true&theme=cobalt&layout=compact")](https://github.com/olekspickle)
+
+![Metrics](/github-metrics.svg)
 
